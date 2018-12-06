@@ -1,0 +1,4 @@
+E:\Steam\steamapps\common\RimWorld\Mods\NeedsComms\Assemblies\RefugeeChasedCheck.dll
+E:\Steam\steamapps\common\RimWorld\Mods\NeedsComms\Source\RefugeeChased\obj\Debug\RefugeeChased.csprojAssemblyReference.cache
+E:\Steam\steamapps\common\RimWorld\Mods\NeedsComms\Source\RefugeeChased\obj\Debug\RefugeeChased.csproj.CoreCompileInputs.cache
+E:\Steam\steamapps\common\RimWorld\Mods\NeedsComms\Source\RefugeeChased\obj\Debug\RefugeeChasedCheck.dll
